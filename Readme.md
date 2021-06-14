@@ -1,4 +1,4 @@
-ocr_process.py is main file. Other file presents a cleaner look but less efficient. 
+ocr_process.py is main file. Other file (draft) presents a cleaner look but less efficient. 
 
 Using tesseract OCR and openCV to read files and output valueable data from a transcripts. 
 
